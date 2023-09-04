@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "37864253015",
+    "project_id": "cchat-app-2c52d",
+    "storage_bucket": "cchat-app-2c52d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37864253015:android:da10b5244f15926fd1a512",
+        "android_client_info": {
+          "package_name": "com.example.scholar_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37864253015-96o9ev90ffo5fl5uaog0egpoc1kl48q0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHTeiB5PFXyCRNVvDKLNLFv-ZG27ps3Mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37864253015-96o9ev90ffo5fl5uaog0egpoc1kl48q0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
